@@ -19,8 +19,9 @@ Or install it yourself as:
     $ gem install kc_view_tool
 
 ## Usage
-
-TODO: Write usage instructions here
+```ruby
+DevCampViewTool::Renderer.copyright 'Kc Christiansen', 'All Rights Reserved'
+```
 
 ## Development
 
